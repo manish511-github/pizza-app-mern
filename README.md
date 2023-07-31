@@ -24,4 +24,13 @@ This is a Full stack Pizza Delivery App .
 
 Mongo DB , React js , Express js , Node js, Redux, Axios , Chakra UI , Ant Design
 
+## Deployed Site :-
+https://pizzacilious.vercel.app/
+
+## Demo :-
+
+https://github.com/manish511-github/pizza-app-mern/assets/76744029/9da59165-1e09-4489-bd72-97b58e464681
+
+
+
 
